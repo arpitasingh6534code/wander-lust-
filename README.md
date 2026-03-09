@@ -15,8 +15,7 @@ Before you begin, make sure you have the following installed on your system:
 1. Clone the Wanderlust repository from GitHub:
 
    ```
-   git clone https://github.com/gawandeabhishek/Wanderlust-Major-Project.git
-   ```
+   git clone https://github.com/arpitasingh6534code/wander-lust-
 
 2. Set up the database:
    - Create a `.env` file in the root directory of the project.
